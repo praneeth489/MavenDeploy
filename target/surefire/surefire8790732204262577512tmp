@@ -1,0 +1,5 @@
+#surefire
+#Wed Nov 01 07:31:46 EDT 2017
+user.dir=/root/mysample
+localRepository=/root/.m2/repository
+basedir=/root/mysample
